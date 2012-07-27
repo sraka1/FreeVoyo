@@ -1,0 +1,3 @@
+[submodule "TenMinuteMail"]
+	path = TenMinuteMail
+	url = git://github.com/carbolymer/10-Minute-Mail-PHP-Api.git
